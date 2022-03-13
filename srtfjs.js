@@ -819,8 +819,8 @@ function showRoundRobinChart(outputDiv) {
 
 
 function showAlgorithmChart(outputDiv) {
-    let algorithmArray = ["fcfs", "sjf", "srtf", "ljf", "lrtf", "rr", "hrrn", "pnp", "pp"];
-    let algorithmNameArray = ["FCFS", "SJF", "SRTF", "LJF", "LRTF", "RR", "HRRN", "PNP", "PP"];
+    let algorithmArray = ["srtf"];
+    let algorithmNameArray = ["SRTF"];
     let algorithmChartData = [
         [],
         [],
